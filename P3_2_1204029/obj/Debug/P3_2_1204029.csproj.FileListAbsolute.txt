@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\P3_2_1204029\P3_2_1204029\bin\Debug\P3_2_1204029.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\P3_2_1204029\P3_2_1204029\bin\Debug\P3_2_1204029.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\P3_2_1204029\P3_2_1204029\bin\Debug\P3_2_1204029.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\P3_2_1204029\P3_2_1204029\obj\Debug\P3_2_1204029.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\P3_2_1204029\P3_2_1204029\obj\Debug\P3_2_1204029.ChildForm.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\P3_2_1204029\P3_2_1204029\obj\Debug\P3_2_1204029.ParentForm.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\P3_2_1204029\P3_2_1204029\obj\Debug\P3_2_1204029.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\P3_2_1204029\P3_2_1204029\obj\Debug\P3_2_1204029.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\P3_2_1204029\P3_2_1204029\obj\Debug\P3_2_1204029.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\P3_2_1204029\P3_2_1204029\obj\Debug\P3_2_1204029.pdb
